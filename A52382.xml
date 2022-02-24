@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vox populi, fax populi, or, A discovery of an impudent cheat and forgery put upon the people of England by Elephant Smith, and his author of Vox populi thereby endeavoring to instill the poysonous principles of rebellion into the minds of His Majesties subjects : humbly recommended to all loyal subjects and true Englishmen.</title>
+            <author>Nalson, John, 1638?-1686.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52382</idno>
+            <idno type="STC">Wing N121</idno>
+            <idno type="STC">ESTC R11667</idno>
+            <idno type="EEBO-CITATION">13118949</idno>
+            <idno type="OCLC">ocm 13118949</idno>
+            <idno type="VID">97804</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52382)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97804)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 746:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Vox populi, fax populi, or, A discovery of an impudent cheat and forgery put upon the people of England by Elephant Smith, and his author of Vox populi thereby endeavoring to instill the poysonous principles of rebellion into the minds of His Majesties subjects : humbly recommended to all loyal subjects and true Englishmen.</title>
+                  <author>Nalson, John, 1638?-1686.</author>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by S.R. for Benj. Tooke ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Halkett &amp; Laing misspell the author's name Nelson.</note>
+                  <note>Francis Smith was the publisher of Vox populi, or, The peoples claim to their Parliaments sitting ... (1681); in the present piece Nalson hints that he may be the author as well.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Smith, Francis, d. 1688.</term>
+               <term>Great Britain --  Politics and government --  1603-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97804:1"/>
+            <pb facs="tcp:97804:1" rendition="simple:additions"/>
+            <p>
+               <hi>Vox Populi, Fax Populi.</hi> OR, A Diſcovery of an Impudent CHEAT AND FORGERY Put upon the People of <hi>ENGLAND</hi> by <hi>ELE<g ref="char:EOLhyphen"/>PHANT SMITH,</hi> and his Author of <hi>VOX POP<g ref="char:V">Ʋ</g>LI.</hi>
+            </p>
+            <p>Thereby Endeavoring to inſtill the Poyſonous Principles of Rebellion into the Minds of His Majeſties Subjects. Humbly Recommended to all Loyal Subjects and True Engliſhmen.</p>
+            <q>
+               <p>Nemo quidem de factis ſuis praeſumat diſputare, multo fortiù contra factum ſuum venire.</p>
+               <bibl>
+                  <hi>Bracton, Lib. 1. c. 8 nu. 5.</hi> De Dignitate Regis.</bibl>
+            </q>
+            <p>In <hi>Solomons</hi> Engliſh;</p>
+            <q>
+               <p>My Son fear thou God, and the King, and meddle not with them, that are given to Change; for their Calamity ſhall ariſe ſuddenly, and who knoweth the Ruin of them both?</p>
+               <bibl>
+                  <hi>Prov. 24. v. 21, 22.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>S. R.</hi> for <hi>Benj. Tooke,</hi> at the <hi>Ship</hi> St. <hi>Paul's Church-yard.</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:97804:2"/>
+            <pb n="1" facs="tcp:97804:2"/>
+            <head>Vox Populi, Fax Populi: <hi>OR,</hi> A Diſcovery of an Impudent Cheat and Forgery put upon the People of <hi>England</hi> by <hi>Elephant Smith</hi> and his Author of <hi>Vox Po<g ref="char:EOLhyphen"/>puli, &amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Here is nothing more ſelf-evident, and apparent, than that the poyſonous Dregs and Lees of the late horrid and unnatural Rebellion begin again to riſe, and put the Nation into a Ferment, and yet men muſt not be allowed to ſpeak, but preſently their Mouths muſt be ſtopt with the Reproach of <hi>Tories,</hi> if they be Laymen, and <hi>Tanti<g ref="char:EOLhyphen"/>vies,</hi> if they be Eccleſiaſticks; And Fourty One, and Fourty Eight muſt by no means be named, for fear of diſuniting Proteſtants.</p>
+            <p>I cannot tell what Union they mean, but if this Paper be the true Sence of the diſſenting Proteſtants, they ſeem but too cloſely united already againſt the Government, and with their predeceſſors, who <hi>actu<g ref="char:EOLhyphen"/>ally levell'd the Church, and State with the Ground,</hi> and by the ſame Principles, and pretences of <hi>this Pa<g ref="char:EOLhyphen"/>per,</hi> which is but the Commonwealth of <hi>England</hi> drawn in Miniature by a Cunning Hand, and his
+<pb n="2" facs="tcp:97804:3"/>
+               <hi>Vox Populi</hi> an Eccho of the laſt Barbarous Civil War.</p>
+            <p>But that which was moſt ſurprizing, was, to ſee it Fronted with an <hi>Humbly recommended to the King and Parliament at their Meeting at</hi> Oxford <hi>the</hi> 21. <hi>of</hi> March , though I doubt not to make him, I can<g ref="char:EOLhyphen"/>not hope to bluſh, but aſhamed of his Preſent before we part, unleſs he be of the Metal of that Sinner of <hi>David</hi>'s Pſal. 50. v. 19, 20, 21. <hi>Thou giveſt thy Mouth to evil, and thy Tongue frameth Deceit. Thou ſitteſt, and ſpeakest againſt thy Brother thou ſlandereſt thine own Mothers Son. Theſe things haſt thou done, and I kept ſilence, and thou thoughteſt I was altogether ſuch a one as thy ſelf.</hi> And then comes in a Scrap of <hi>Bra<g ref="char:EOLhyphen"/>cton,</hi> which has been boyled into Crambe in the Pip<g ref="char:EOLhyphen"/>kin of the Commonwealth, with the Sons of the Pro<g ref="char:EOLhyphen"/>phets Death in the Pot, and yet is but a piece of <hi>Ju<g ref="char:EOLhyphen"/>ſtinian</hi> quoted by <hi>Bracton</hi> to ſerve another purpoſe, than our Scribler intends, as he knows it, if he knows any thing beſides the Art beyond that of Madam <hi>Brinvillers,</hi> of poyſoning Mens Souls as well as Bo<g ref="char:EOLhyphen"/>dies. But why he ſhould bring in the Scripture of re<g ref="char:EOLhyphen"/>moving the <hi>Land-Mark</hi> I cannot imagin, unleſs to wreſt it to his own damnation, as the Unſtable do, ſince nothing is more evident than that the Principles of his Book did not only remove the ancient <hi>Bounds,</hi> and <hi>Land-Marks,</hi> but the true Poſſeſſors of the Lands, a far greater Sin ſure, and ſlew the Heir, that they might poſſeſs the Inheritance.</p>
+            <p>He begins with the Popiſh Plot, which is the only popular, and taking prologue; but yet by his favour, he does not ſeem to believe it all, or if he does, he ſeems to be an Actor, if not a Contriver in it; for the O<g ref="char:EOLhyphen"/>riginal Narrative acquaints us, <hi>pag.</hi> 64. That the Royal
+<pb n="3" facs="tcp:97804:3"/>Family of the <hi>Stuarts</hi> are condemned to be cut oft, Root and Branch, and namely the <hi>King,</hi> the <hi>Duke</hi> of <hi>York,</hi> and the Prince of <hi>Orange;</hi> and this was to be ef<g ref="char:EOLhyphen"/>fected, by diſaffecting the Kings beſt Friends, and Sub<g ref="char:EOLhyphen"/>jects againſt his Perſon and Government, charging him with Tyranny, and Deſigns of Oppreſſion, Go<g ref="char:EOLhyphen"/>verning by the Sword, and without Parliaments: And this was to be done by falſe Intelligencers, and Sediti<g ref="char:EOLhyphen"/>ous Preachers in private or publick Conventicles; Look here the <hi>Author,</hi> and the <hi>Publiſher.</hi> For com<g ref="char:EOLhyphen"/>pare <hi>Vox Topuli,</hi> and <hi>Frank Smith</hi> the Anabaptiſt Preacher in <hi>Vox Populi,</hi> pag. 1. And you ſhall ſee, they are a perfect <hi>Tally,</hi> and notch exactly; For, ſays he, ſo prevalent has this Intereſt been under ſo potent a Head as the <hi>D.</hi> of <hi>Y.</hi> as to ſtiffle in the Birth all thoſe hopeful Parliament Endeavours by thoſe many ſurprizing, and aſtoniſhing Prorogations, and Diſſoluti<g ref="char:EOLhyphen"/>ons which they have procured. This was not at all de<g ref="char:EOLhyphen"/>ſigned to reſfect upon his Majeſty, to diſaffect the Sub<g ref="char:EOLhyphen"/>jects, I warrant you, no, not for the World, Mr. <hi>Vox Populi</hi> had never ſuch a thought, Good Man.</p>
+            <p>I know ſome perſons will preſently ſtumble at the Threſhold, and cry out, A <hi>Papiſt,</hi> a <hi>Yorkiſt,</hi> according to the breeding and manners of the Time; as if a man could not honor the Duke as Son of the Martyr, and Brother to our Gracious Sovereign, and yet hate Po<g ref="char:EOLhyphen"/>pery, with more eaſe than the old Commonwealths Men divided the Perſon from the King. To theſe I have only this to ſay, I would deſire them ſeriouſly to conſider, how far the Intention of ſome People may carry on the Deſign of Rooting out the Family of the <hi>Stuarts</hi> ſworn to be Part of the Popiſh Plot, the <hi>Duke</hi> being one Branch of the Family, and as the matter has bee managed by the Intelligencers of the Nation, all
+<pb n="4" facs="tcp:97804:4"/>the Lords Spiritual, the greateſt part of the Lords Temporal, All the Churchmen, and Loyal Gentry are declared Adherents to the Duke, and if it were time of day to ſpeak Engliſh, you ſhould have <hi>Vox Populi</hi> go to the end ont. Now the Duke cannot be laid aſide, but his Adherents muſt be ſo too, and then the Ma<g ref="char:EOLhyphen"/>nagement of all muſt come to the hands of thoſe Loy<g ref="char:EOLhyphen"/>all Diſſenters, who about 50000 ſtrong attended the King at <hi>Worceſter,</hi> which was a very Extraordinary Guard.</p>
+            <p>I have no deſign to multiply words to no purpoſe, and therefore will not quarrel with every thing he ſays, though I confeſs he has ſo mingled Poyſon and Antidote, Truth and Malice, Falſhood and Artifice, that there is ſcarce a Line in his two Sheets that is not lyable to Exception.</p>
+            <p>I own the Excellent Conſtitution of an Engliſh Par<g ref="char:EOLhyphen"/>liament, and honour it with all the becoming Venera<g ref="char:EOLhyphen"/>tion of a Subject born in <hi>England,</hi> a Lover of Liberty, a ſincere Proteſtant according to the Excellent Do<g ref="char:EOLhyphen"/>ctrine of the Church of <hi>England,</hi> as now it ſtands, and one that hopes to enjoy the Advantages of the well tempered Government here, and the Happineſs pro<g ref="char:EOLhyphen"/>miſed by the Reformed Religion hereafter; but I hate, and abhor all Uſurpations, and more eſpecially thoſe of the Late Commonwealth Rebels, which I find ſum<g ref="char:EOLhyphen"/>med up by Mr. <hi>Vox Populi</hi> under theſe Heads:</p>
+            <p n="1">1. That the Law makes the King. <hi>Title Page.</hi>
+            </p>
+            <p n="2">2. That the King is only a King, while he rules well, but a Tyrant, when he oppreſſes. <hi>Pag.</hi> 2.</p>
+            <p n="3">3. Eſpecially when it comes in with an <hi>Innuendo,</hi> that his Majeſty has not ruled well in thoſe many ſurprizing and aſtoniſhing Prorogations and Diſſolu<g ref="char:EOLhyphen"/>tions, and when it is poſitively affirmed, That not to
+<pb n="5" facs="tcp:97804:4"/>ſuffer Parliaments to ſit to anſwer the great ends for which they were Inſtituted, is expreſly contrary to Common Law, and to the Law of God, of Nature, and a violence offered to the Government, an Infringment of the Peoples fundamental Rights, and tends to the breaking of the Government, and introducing Arbi<g ref="char:EOLhyphen"/>trary Power. <hi>p.</hi> 5, 6.</p>
+            <p n="4">4. That the King and his Predeceſſors Power of Proroguing, and Diſſolving Parliaments, is only an Argument <hi>a facto ad Jus,</hi> and not concluding their having done ſo, or doing ſo doth not create a Right, which is in plain Engliſh to ſay, This Prerogative is an Uſurpation, and by clear Conſequence ſtrikes di<g ref="char:EOLhyphen"/>rectly at the King, as an oppreſſor, which before he has told us, does Unking him, and make him a Ty<g ref="char:EOLhyphen"/>rant. <hi>pag.</hi> 13.</p>
+            <p n="5">5. That according to <hi>Magna Charta, Nulli negabi<g ref="char:EOLhyphen"/>mus,</hi> the King ought to have no Negative Voice, or to deny paſſing ſuch Bills as the Peoples needs call for.</p>
+            <p>This is a ſhort Abſtract of this <hi>Vox Topuli;</hi> But can you imagin, whence this Godly Piece was borrowed to be preſented to the King and Parliament for a New Mirror of Juſtice, and Model of Government? from a very Celebrated Authority, I aſſure you, no worſe Man than the Engliſh <hi>Pilate,</hi> the ſcarlet villain <hi>Brad<g ref="char:EOLhyphen"/>ſhaw</hi>'s Reports, <hi>Charles</hi> the Firſt his Caſe, and Mr. So<g ref="char:EOLhyphen"/>licitor <hi>Cooke,</hi> who was hang'd, drawn, and quarter'd for his pains, as his Maſter would have been, if the Devil had not ſaved the Hangman the Labour.</p>
+            <p>
+               <hi>The Charge of the Commons of</hi> England <hi>againſt</hi> Charles Stuart, <hi>&amp;c.</hi> There's his Title, <hi>Vox Populi.</hi>
+            </p>
+            <p>
+               <hi>That the ſaid</hi> Charles Stuart, <hi>being admitted King of</hi> England (there's his firſt Maxim that the Law makes the King) <hi>and therein truſted with a limited
+<pb n="6" facs="tcp:97804:5"/>Power, and by his Truſt, Oath, and Office, being oblig<g ref="char:EOLhyphen"/>ed to uſe the Power committed to him for the Good of the People, and for Preſervation of their Rights and Liberties: yet nevertheleſs out of a wicked Deſign, to erect, and uphold in himſelf an unlimited, and Tyran<g ref="char:EOLhyphen"/>nycal Power to rule according to his Will, and to o<g ref="char:EOLhyphen"/>verthrow the Rights, and Liberties of the People, yea to take away, and make void the Foundations thereof, and of all Redreſs and Remedy of Miſgovern<g ref="char:EOLhyphen"/>ment, which by the Fundamental Conſtitutions of this Kingdom were reſerved on the Peoples behalf in the Rights and Power of frequent, and ſucceſſive Parlia<g ref="char:EOLhyphen"/>ments, or National Meeting; He the ſaid</hi> Charles Stuart, <hi>&amp;c.</hi> Here is the ſum and ſubſtance of <hi>Vox Po<g ref="char:EOLhyphen"/>puli,</hi> which I leave to the Reader to compare, to ſave him the expence of Money, and my ſelf of time. And is not this a very pretty Looking Glaſs to preſent to a King and Parliament at <hi>Oxford,</hi> wherein the King is arraign'd of Miſgoverning, Proroguing, Diſſolving, <hi>&amp;c.</hi> as indeed his two Sheets are nothing elſe but this <hi>Compendium</hi> beaten a little Thinner.</p>
+            <p>But that I may give ſome account to the People whom this Mr. <hi>Vox</hi> will needs repreſent, though he was never choſen by them, and they have other Re<g ref="char:EOLhyphen"/>preſentatives at <hi>Oxon,</hi> who will not be pleaſed with his Uſurpation upon their Rights and Priviledges. In Anſwer to his Firſt Theſis, <hi>That the Law makes the King.</hi> Firſt, It is contrary to expreſs Scripture, <hi>By me Kings reign,</hi> &amp; the Powers that be are ordaind of God.</p>
+            <p n="2">2. It is againſt the Law of Reaſon, and Nature, <hi>Cau<g ref="char:EOLhyphen"/>ſa eſt prior Cauſato,</hi> the Cauſe muſt be before the Ef<g ref="char:EOLhyphen"/>fect, and by conſequence the Kings, who are Law-Makers, before the Laws.</p>
+            <p n="3">3. It is againſt the Civil Law, as it were eaſie to
+<pb n="7" facs="tcp:97804:5"/>inſtance in a thouſand places. Take one or two that are at hand; <hi>Sacrilegii inſtar eſt Reſcripta Principis ob<g ref="char:EOLhyphen"/>viare. <g ref="char:V">Ʋ</g>nde ipſe Legibus Civilibus non aſtringitur, nam in omnibus Imperatoris excipitur Fortuna, cui ip<g ref="char:EOLhyphen"/>ſas Leges Deus ſubjecit.</hi> Zouch. Pars 4. Sect. 4. <hi>De Jure Principis.</hi> It is a kind of Sacriledge, <hi>ſays he,</hi> to diſobey the Commands of the Prince, though he himſelf is not confined by the Laws; for in all things the Prerogative Royal is excepted to him to whom God hath ſubjected the Laws.</p>
+            <p>
+               <hi>Licet legibus ſoluti ſimus, attament Legibus vivi<g ref="char:EOLhyphen"/>mus.</hi> Juſt. 2.17. a. Though the Emperor be free, yet he lives according to Laws. And as his Moſt Excellent Ma<g ref="char:EOLhyphen"/>jeſty in his late Speech to the Parliament at <hi>Oxon,</hi> aſ<g ref="char:EOLhyphen"/>ſures his People in theſe Words, <hi>I conclude with this one Advice to you, That the Rules and Meaſures of all your Votes may be the known and eſtabliſhed Laws of the Land, which neither can nor ought to be departed from nor changed but by Act of Parliament; and I may the more reaſonably require that you make the Laws of the Land Your Rule, becauſe I am reſolved they ſhall be Mine.</hi> A Reſolution worthy ſo Great and Good a Prince, and which will ſure be ſatisfactory to all Loyal Subjects, and is alone an Anſwer to Mr. <hi>Vox Populi.</hi> And to convince Mr. <hi>Vox Populi</hi> with an Argu<g ref="char:EOLhyphen"/>ment <hi>ad Hominem,</hi> If the King be not above the Laws, which he cannot be, if he be their Creature, what will become of him for a Pardon, which if he, and his friends do not procure, indeed Mr. <hi>Vox Populi</hi> is in danger of having his Singing ſpoiled by the Laws for being guil<g ref="char:EOLhyphen"/>ty of <hi>Colemaniſm,</hi> and turning Secretary of State before his time: The <hi>Crimen laeſae Majestatis,</hi> which I think, if the King will not, the Law cannot pardon.</p>
+            <p>To his great Authority of <hi>Bracton,</hi> I oppoſe the no
+<pb n="8" facs="tcp:97804:6"/>Learned and Famous Sir <hi>Walter Raleigh,</hi> whoſe words, a Commentary upon <hi>Bracton,</hi> are theſe: <hi>Whereas there are two Powers of the Law, the one Directive, the other Coactive; to the Power Directive Kings ought to be ſubject, but not to that which Conſtraineth: For as touching Violence or Puniſhment, no man is bound to give a prejudicial Judgement againſt himſelf: And if Equals have not Power over each other, much leſs have Inferiors over their Superiors from whom they receive their Authority and Strength.</hi>
+            </p>
+            <p>
+               <hi>The Prince,</hi> adds he, <hi>is ſo much above the Laws, as the Soul, and Body united is above a dead, and ſenſe<g ref="char:EOLhyphen"/>leſs Carcaſe; for the King is truly called</hi> Jus vivum &amp; Lex animata, <hi>an animate, and living Law. But this is true, that by giving Authority to Laws, Princes both add greatneſs to themſelves and conſerve it, and there<g ref="char:EOLhyphen"/>fore was it ſaid of</hi> Bracton, Meritò debet Rex, <hi>&amp;c. But whereas</hi> Bracton <hi>aſcribeth this Power to the Human Law, he is therein miſtaken, for Kings are made by God and Laws Divine, and by Human Laws only de<g ref="char:EOLhyphen"/>clared to be Kings.</hi> Raleighs Hiſt. <hi>Lib.</hi> 2. <hi>part</hi> 1. <hi>c.</hi> 4. <hi>num.</hi> 16.</p>
+            <p>And in another place <hi>Bracton</hi> explains himſelf, and puts the Caſe; If the King ſhould do injury, what is to be done; and tells us, If upon humble petitioning he cannot be brought to alter his mind, he is to be left to God almighty, <hi>Cum Superiorem non habeat, niſi Deum, &amp;c.</hi> Having no other Superior, but God. <hi>Lib.</hi> 5. <hi>Tract.</hi> 3. <hi>de defaltis. c.</hi> 3. <hi>num.</hi> 3.</p>
+            <p>And for a more ample ſatisfaction I refer the Reader to Mr. <hi>Dudley Diggs</hi> his Diſcourſe concerning the Unlawfulneſs of Subjects taking up Arms againſt their Sovereign, in what Caſe ſoever; where he ſhall find this point ſufficiently winnowed, and the Chaff of this
+<pb n="9" facs="tcp:97804:6"/>Commonwealth-Maxim blown away by the ſtrength of Law, Reaſon, and Religion. <hi>pag.</hi> 77, 78, &amp;c.</p>
+            <p>To his Second Aphoriſm, <hi>Rex a bene Regendo:</hi> That he is only King while he rules well, but a Tyrant when he oppreſſes. If he meanes that he ceaſes to be a King, and by conſequence his Subjects are free from their Allegiance, which is a Doctrine ſtrenuouſly main<g ref="char:EOLhyphen"/>tained by Papiſts and Commonwealth-Proteſtants, I ſay, it is utterly falſe, and I oppoſe to it. Firſt, his own allowed Maxim of our Law, <hi>Rex non moritur, &amp;c.</hi> The King cannot dye or do wrong.</p>
+            <p n="2">2. It is contrary to Scripture: God Almighty, who muſt not be ſaid to ſpeak improperly, calls <hi>Pharaoh, Saul, Agag, Nebuchadnezzar Kings,</hi> nay, and which is more, commands Obedience to them. And if Mr. <hi>Vox</hi> will be wiſer than the Maker of Kings, I think he is fitter for <hi>Bedlam</hi> and <hi>Hellebore</hi> himſelf, than to pre<g ref="char:EOLhyphen"/>ſcribe to a King and Parliament, as State Phyſician in ordinary to them both.</p>
+            <p>To his Third, which is a charge of Miſgoverning, ſlily thrown upon his Majeſty: I ſhall refer him to the <hi>Attorney General,</hi> who I preſume at leiſure may an<g ref="char:EOLhyphen"/>ſwer him more appoſitely, and to the purpoſe, if he be not <hi>Vox &amp; praeterea nihil:</hi> Only I muſt ſay, It is the moſt falſe, and groundleſs, malicious, and impudent Calumny thrown upon a juſt, good, and merciful Prince that ever was ſince the times of <hi>Pilate,</hi> and <hi>Bradſhaw,</hi> and a very ill Requital for the Act of Oblivion, and the laſt Free and General Pardon , of which by his Speech I cannot but ſuſpect this <hi>Galilean</hi> to have had ſome benefit: The comfort is, his Majeſty cannot, af<g ref="char:EOLhyphen"/>ter all this Noyſe, be taxed with ſo much as one Arbi<g ref="char:EOLhyphen"/>trary Action, nor of having ever denied his People any one thing requeſted of him in a fair and Parliamentary way.</p>
+            <p>
+               <pb n="10" facs="tcp:97804:7"/>
+His fourth Theſis puts me in mind of the poor Coun<g ref="char:EOLhyphen"/>trey Fellow's Miſtake, who read, The Devil was a Lawyer from the beginning; Juſt ſuch another <hi>Hunt<g ref="char:EOLhyphen"/>ſcrap</hi> of Law is our Little <hi>Vox Populi,</hi> who ſays, The Kings Prerogative of Calling, Adjourning, and Proro<g ref="char:EOLhyphen"/>guing of Parliaments, is arguing <hi>a Facto ad Jus,</hi> and that their doing ſo, does not create a Right.</p>
+            <p>Say you ſo good Mr. <hi>Vox Populi!</hi> What think you to Preſcription of above a Thouſand years, which I am ſure is time beyond which the Memory of Man cannot prove to the contrary. Is it no Argument that becauſe the River <hi>Thames</hi> always ran from <hi>Oxon</hi> to <hi>London,</hi> that thereſore that is its proper Channel, but that it ought to run over <hi>Black-Heath,</hi> or <hi>Highgate-Hill?</hi> For ſhame! If you had the quiet Preſcription of Poſſeſ<g ref="char:EOLhyphen"/>ſion for a good Eſtate of 40 <hi>s. per Armum</hi> to make you a Freeholder, would you not take it ill to be ſhoulder'd out of your Tenement with a <hi>non ſequitur</hi> of forcible Entry drawn <hi>a facto ad Jus;</hi> And muſt the Crown hold by Copy of Court-Roll at the will of the Little Lord Mr. <hi>Vox Populi?</hi>
+            </p>
+            <p>But Secondly: Pray what was the meaning of the Parliament of <hi>Nov.</hi> 3. 1640. to get an Act to perpetu<g ref="char:EOLhyphen"/>ate their Sitting, during the Pleaſure of the two Houſes, though it may be his Majeſty had with more Advan<g ref="char:EOLhyphen"/>rage adviſed upon it, and (as they would have the Judges Patents) to have inſerted a Clauſe into it, <hi>Quan<g ref="char:EOLhyphen"/>diu ſe bene geſſerint;</hi> for Parliaments are but Men, and no more Infallible than Popes.</p>
+            <p n="3">3. What is the meaning of that Act of Parliament, 16 <hi>Car.</hi> 1. <hi>c.</hi> 1. It is declared, That the Appointment of the Time and Place for the holding of Parliaments, hath always belonged, as it ought, to his Majeſty and his Royal Progentiors? Or of that Aphoriſm, <hi>Cujus eſt
+<pb n="11" facs="tcp:97804:7"/>inſtituere, ejus eſt deſtituere,</hi> He that hath the Power to make, hath the Power to unmake? Will you force us to that of the Poet for an Oracle?</p>
+            <q>
+               <l>Aetas parentum pejor Avis</l>
+               <l>Nos tandem protulit progeniem vitioſiorem.</l>
+            </q>
+            <p>Muſt we grow every Age worſe than others ? this is a ſad Doctrine to be heard from a Reforming <hi>Vox Po<g ref="char:EOLhyphen"/>puli.</hi>
+            </p>
+            <p>What means that Statute 16 <hi>Car.</hi> 2. <hi>c.</hi> 1. It is ac<g ref="char:EOLhyphen"/>knowledged, That it is a Prerogative Inherent to the Imperial Crown of <hi>England,</hi> the Calling and Aſſem<g ref="char:EOLhyphen"/>bling of Parliaments, <hi>&amp;c.</hi> Good Mr. <hi>Vox,</hi> is this too, Arguing <hi>a facto ad Jus,</hi> or <hi>a Jure ad factum?</hi> What a Dolt was the Reputed Oracle of the Law to tell us; <hi>None can begin, continue, or diſſolve the Parliament but by the Kings Authority,</hi> Co. Litt. fol. 110. a. And in another place to argue ſo ſimply <hi>a facto ad Jus,</hi> when he tells us, <hi>The King is</hi> Caput, Principium &amp; Finis Parliamenti; The Head, the Beginning, and End of Parliaments; <hi>Co.</hi> 4. <hi>Inſt. f.</hi> 3. How happy are ſome Perſons in their Illuminations, and their Diſcove<g ref="char:EOLhyphen"/>ries!</p>
+            <p>His Fifth Poſition, That according to <hi>Magna Charta the King ought to have no Negative Voice,</hi> is like the reſt of his Reaſonings, and agreeable to his Principles, who would have the King have nothing at all. Good Mr. <hi>Vox,</hi> as you are Valiant, ſo be Merciful: What, muſt the King be ſubject to the Laws, and yet have no power at all to refuſe any? Pray Mr. <hi>Eccho</hi> of the Late Rump, do as you would be done by. Muſt the Com<g ref="char:EOLhyphen"/>mons have a Negative Vote, and the Lords have a Ne<g ref="char:EOLhyphen"/>gative, <hi>Non Content,</hi> and the Sovereign be <hi>Content</hi> with
+<pb n="12" facs="tcp:97804:8"/>what ever is afforded him? Pray, Sir, how much youn<g ref="char:EOLhyphen"/>ger do you think is <hi>Le Roy S' aviſera,</hi> than <hi>Le Roy Le veult?</hi> Here's a pudder and a ſtir about denying and denying Bills, and yet Queen <hi>Elizabeth,</hi> in a Par<g ref="char:EOLhyphen"/>liament in the 39th. year of her Reign rejected but 48. Bills which had paſſed both Houſes, and ſent the Spea<g ref="char:EOLhyphen"/>ker of the Commons word, That it was her Majeſties Pleaſure, that if he perceived any idle Heads that would not ſtick to hazard their own Eſtates, but med<g ref="char:EOLhyphen"/>dle with Reforming the Church, and Transforming the Common Weal by exhibiting Bills to that purpoſe, the Speaker ſhould not receive them, till they were view'd and conſider'd by thoſe who are ſitter to conſi<g ref="char:EOLhyphen"/>der and judge of them.</p>
+            <p>And yet then Mr. <hi>Vox Populi</hi> made no words about the matter: And if he had recommended his Story to that Queen and her Parliament, he would have been recommended to ſome Ballad Singer, to compoſe a Doleful Ditty, upon the woful Life, and deſerved Death of <hi>Vox Populi,</hi> for Conſpiring againſt our Gra<g ref="char:EOLhyphen"/>cious Queen <hi>Elizabeth.</hi> And there is a poſitive Sta<g ref="char:EOLhyphen"/>tute, affirming the Kings having a Negative Voice, 2 <hi>H.</hi> 5. <hi>Rot. Parl.</hi> At the ſame Rate and Ingenuity he rea<g ref="char:EOLhyphen"/>ſons about the King's having no Prerogative, but what the Law allows him, when nothing is more frequent than Salvo's of the Royal Prerogative,<note place="margin">Vide 3. <hi>E.</hi> 1. <hi>c.</hi> 5.8. <hi>E.</hi> 1. <hi>c,</hi> 2.28. <hi>E.</hi> 1. <hi>c.</hi> 20.18. <hi>E.</hi> 3. <hi>c.</hi> 1.34. <hi>E.</hi> 3. <hi>c.</hi> 15.</note> which ſure ſuppoſes the King had ſome ſuch thing, which the Laws did not give, nor ſhould take the meaning of theſe words <hi>tas, Cap.</hi> 2. And what is the meaning of theſe words ſo frequent in our Law-Books, <hi>Salvo Jure Regio?</hi> Pray Mr. <hi>Vox</hi> inform the King and Parliament.</p>
+            <p>And for his Story of the Honeſt Proclamation, that no Parliament ſhould be Diſſolved ſo long as any Peti<g ref="char:EOLhyphen"/>tions
+<pb n="13" facs="tcp:97804:8"/>were not anſwered, he ſhould have acquainted the People, that at the Opening of the Parliament ſuch a Number of Lords, and Commons were appoint<g ref="char:EOLhyphen"/>ed Tryers of Petitions, which were to be brought to them, and they were the Judges, which were fit to be preferred to the King, and which to be rejected; And it would little avail his Deſign of protracting of Seſſi<g ref="char:EOLhyphen"/>ons, ſince as it would be unreaſonable, ſo Honourable an Aſſembly as the Parliament ſhould ſit waiting for Petitions, ſo moſt certainly a Day would be appointed for the People to bring them in; and if they came not, the Parliament would not be obliged to attend longer, having diſpatched the more weighty Affairs.</p>
+            <p>I do not know, who this <hi>Anonymus</hi> Author is, but it may be himſelf; or at beſt, it is but asking his Compa<g ref="char:EOLhyphen"/>nion whether he be a Thief, and calling his Accomplice to be his Voucher, and Compurgator, and that does not add much weight to his Arguments or ſtrength to his Cauſe.</p>
+            <p>In ſhort, the Pamphlet is the <hi>Compendium</hi> of the Aſſertions, and Poſitions of the Long Rebel Parlia<g ref="char:EOLhyphen"/>ment; the <hi>Epitome</hi> of <hi>Bradſhaw,</hi> and <hi>Cooke;</hi> an Af<g ref="char:EOLhyphen"/>front to his Majeſty, and the Parliament; a Firebrand of Sedition; a Trumpet to Rebellion; and a moſt ſhameful Abuſe of the People, of whom he has made himſelf the Repreſentative: It begins with the Plot, and for any thing I ſee, may end with the Doom of the Plotters; and to the Law and his Deſerts, I leave him:Wiſhing a Happy Union between the King and his Parliament, and that they may be delivered from the Preſents of ſuch <hi>Vox Populi's,</hi> as are deſigned to pull us all in Flames.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
